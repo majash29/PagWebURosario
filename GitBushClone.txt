@@ -1,0 +1,3 @@
+$git clone https://github.com/majash29/PagWebURosario.git
+
+$git pull origin master
